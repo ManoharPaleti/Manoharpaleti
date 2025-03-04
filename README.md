@@ -7,7 +7,7 @@
 
 - 💬 About me **🚀 Passionate Full Stack Developer with 3 years of experience in delivering high-impact web applications. Proficient in Java, Python, and the MERN stack.🏎️When I'm not coding, you can find me cheering for my favorite Formula 1 team or following the latest football matches. 🤝 Let’s connect and explore opportunities to collaborate on groundbreaking projects that push the boundaries of technology! 🌐🔗**
 
-- 📫 How to reach me **manoharpaleti9@gmail.com**
+- 📫 How to reach me **paletimanohar4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
